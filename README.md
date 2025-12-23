@@ -12,7 +12,7 @@
 
 클라이언트 서버 파이프라인
 
-<img src="https://github.com/user-attachments/assets/82c1f7f9-237f-4e28-92a8-29b41eb07125" width="700">
+<img src="https://github.com/user-attachments/assets/82c1f7f9-237f-4e28-92a8-29b41eb07125" width="500">
 
 수강 신청 클라이언트 서버 파이프라인
 
