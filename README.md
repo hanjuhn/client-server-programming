@@ -14,7 +14,7 @@
 
 <img src="https://github.com/user-attachments/assets/82c1f7f9-237f-4e28-92a8-29b41eb07125" width="500">
 
-수강 신청 클라이언트 서버 파이프라인
+수강 신청 프로그램 클라이언트 서버 파이프라인
 
 <img src="https://github.com/user-attachments/assets/ccbd3f4c-c3b6-4f02-87df-d045739dfb2a" width="700">
 
@@ -24,7 +24,7 @@
 
 <img src="https://github.com/user-attachments/assets/ba78fa87-4e08-4ae4-b3e4-8d793356ddd8" width="500">
 
-수강 신청 이벤트 버스 파이프라인
+수강 신청 프로그램 이벤트 버스 파이프라인
 
 <img src="https://github.com/user-attachments/assets/81dc9e0f-f717-4e19-a4d2-0a38c5b8509c" width="700">
 
@@ -34,7 +34,7 @@
 
 <img src="https://github.com/user-attachments/assets/3112fd73-0b02-45b5-962d-55ee4cf05bcd" width="500">
 
-선수과목 검증 파이프 앤 필터 파이프라인
+선수과목 검증 프로그램 파이프 앤 필터 파이프라인
 
 <img src="https://github.com/user-attachments/assets/52e277db-34b1-4e3c-9eac-5c9f5a589bd9" width="700">
 
