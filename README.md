@@ -16,7 +16,7 @@
 
 수강 신청 프로그램 클라이언트 서버 파이프라인
 
-<img src="https://github.com/user-attachments/assets/ccbd3f4c-c3b6-4f02-87df-d045739dfb2a" width="700">
+<img src="https://github.com/user-attachments/assets/ccbd3f4c-c3b6-4f02-87df-d045739dfb2a">
 
 ### 이벤트 버스 패턴
 
@@ -26,7 +26,7 @@
 
 수강 신청 프로그램 이벤트 버스 파이프라인
 
-<img src="https://github.com/user-attachments/assets/81dc9e0f-f717-4e19-a4d2-0a38c5b8509c" width="700">
+<img src="https://github.com/user-attachments/assets/81dc9e0f-f717-4e19-a4d2-0a38c5b8509c">
 
 ### 파이프 앤 필터 패턴
 
@@ -36,13 +36,13 @@
 
 선수과목 검증 프로그램 파이프 앤 필터 파이프라인
 
-<img src="https://github.com/user-attachments/assets/52e277db-34b1-4e3c-9eac-5c9f5a589bd9" width="700">
+<img src="https://github.com/user-attachments/assets/52e277db-34b1-4e3c-9eac-5c9f5a589bd9">
 
 ---
 
 ## 📝 Comparison of Architecture Patterns | 아키텍처 패턴 비교
 
-<img src="https://github.com/user-attachments/assets/7a9bdc10-1dbf-4c41-a617-346b3f6b9cad" width="700">
+<img src="https://github.com/user-attachments/assets/7a9bdc10-1dbf-4c41-a617-346b3f6b9cad">
 
 클라이언트 서버 패턴이 일반적인 웹 서비스 요구에 가장 적합하다. 파이프 앤 필터 패턴과 이벤트 버스 패턴은 특정 조건에서는 강력한 구조지만 일반적인 애플리케이션 웹 서비스에서는 오히려 과한 복잡성을 가진다.
 
