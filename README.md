@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 Architecture Patterns | 아키텍처 패턴
+## 🛠️ Architecture Patterns | 아키텍처 패턴
 
 ### 클라이언트 서버 패턴
 
